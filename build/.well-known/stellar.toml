@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAYQOXMG6LYCHAAPJQOTH6TQQFJ4KXT7EPXSD43SRPET2L5VAPTM56XH"
+"GC4Y3H6CQFJXZX6BFW73SYDWERZVBK2EGTZX7ZPLNOPZ56TSHEVKPEJE"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="Cryptocurrency"
 ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The lemon (Citrus × limon) is a hybrid citrus tree of cultivated origin. The fruit are used primarily for their juice, though the pulp and rind are also used, primarily in cooking or mixing. Lemon juice is about 5% citric acid, which gives lemons a sour taste and a pH of 2 to 3."
+ORG_DESCRIPTION="Mesa Token is a first-person shooter game developed and published by Crowbar Collective. It is a third-party remake of Half-Life (1998) made in the Source game engine. Originally published as a free mod in September 2012, Black Mesa was approved by Half-Life developers Valve for a commercial release; the first commercial version was published as an early-access version in May 2015, followed by a full release in March 2020 for Windows and Linux."
 ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/7pL4y5J/lemon.png"
+ORG_LOGO="https://i.ibb.co/h7sNnZD/mesatoken.png"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
-code="xLEM"
-issuer="GAYQOXMG6LYCHAAPJQOTH6TQQFJ4KXT7EPXSD43SRPET2L5VAPTM56XH"
+code="MesaToken"
+issuer="GC4Y3H6CQFJXZX6BFW73SYDWERZVBK2EGTZX7ZPLNOPZ56TSHEVKPEJE"
 anchor_asset="false"
-name="Lemon Coin"
-desc="The lemon (Citrus × limon) is a hybrid citrus tree of cultivated origin. The fruit are used primarily for their juice, though the pulp and rind are also used, primarily in cooking or mixing. Lemon juice is about 5% citric acid, which gives lemons a sour taste and a pH of 2 to 3."
-image="https://i.ibb.co/7pL4y5J/lemon.png"
+name="MesaToken"
+desc="Mesa Token is a first-person shooter game developed and published by Crowbar Collective. It is a third-party remake of Half-Life (1998) made in the Source game engine. Originally published as a free mod in September 2012, Black Mesa was approved by Half-Life developers Valve for a commercial release; the first commercial version was published as an early-access version in May 2015, followed by a full release in March 2020 for Windows and Linux."
+image="https://i.ibb.co/h7sNnZD/mesatoken.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#LemonCoin was issued using the open and inclusive Stellar blockchain network.
+#MesaToken was issued using the open and inclusive Stellar blockchain network.
